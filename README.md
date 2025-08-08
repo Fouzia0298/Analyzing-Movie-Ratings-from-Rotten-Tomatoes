@@ -1,7 +1,7 @@
 # Analyzing-Movie-Ratings-from-Rotten-Tomatoes
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="images/cover.png" alt="Analyzing Movie Ratings from Rotten Tomatoes" width="800"/>
+  <img src="Movie Ratings from Rotten Tomatoes/Images/cover.png" alt="Analyzing Movie Ratings from Rotten Tomatoes" width="800"/>
 </p>
 
 <!-- PROJECT BADGES -->
